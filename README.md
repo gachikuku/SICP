@@ -1,1 +1,1 @@
-# SICP
+# SICP (aka the *Wizard Book*)
