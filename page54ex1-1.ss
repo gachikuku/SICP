@@ -7,7 +7,7 @@
 (define a 3)
 (define b (+ a 1))
 
-(display (+ a b(* a b))) (newline)
+(display (+ a b (* a b))) (newline)
 (display (= a b)) (newline)
 
 (display(if (and (> b a) (< b (* a b)))
