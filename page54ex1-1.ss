@@ -15,3 +15,8 @@
     a)) (newline)
 
 (display(+ 2 (if (> b a) b a))) (newline)
+
+(display(* (cond ((> a b) a)
+         ((< a b) b)
+         (else -1))
+   (+ a 1))) (newline)
